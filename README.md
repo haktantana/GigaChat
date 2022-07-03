@@ -1,7 +1,7 @@
 # GigaChat
 Multi-Client Chat Application
 
-*- Send up to 9 emojis.*
+*- Send up to 9 emojis.* 😳
 
 *- Instant messaging.*
 
